@@ -4,8 +4,14 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "dev": "nodemon app"
+    "dev": "nodemon app",
+    "main": "index.js"
   },
+
+  "repository": {
+  "type": "git",
+  "url": "https://github.com//jemila2/llaundry.git"
+}
   "author": "",
   "license": "ISC",
   "dependencies": {
